@@ -18,12 +18,12 @@
 {"key":"dr_JRS录像","name":"JRS录像(drpy)","type":3,"api":"http://101.34.67.237/libs/drpy.min.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://101.34.67.237/js/JRS录像.js"},
 {"key":"dr_JRKAN直播","name":"JRKAN直播(drpy)","type":3,"api":"http://101.34.67.237/libs/drpy.min.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://101.34.67.237/js/JRKAN直播.js"},
 
-{"key":"色色资源站","name":"色色资源站","type":1,"api":"http://secj8.com/inc/api.php","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"玖玖资源站","name":"玖玖资源站","type":1,"api":"http://99zywcj.com/inc/ck.php","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"富二代资源站","name":"富二代资源站","type":1,"api":"http://f2dcj6.com/sapi","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"字幕网资源站","name":"字幕网资源站","type":1,"api":"http://zmcj88.com/api","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"久草资源站","name":"久草资源站","type":1,"api":"http://jcspcj8.com/api","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"JAV名优资源站","name":"JAV名优资源站","type":1,"api":"http://mygzycj.com/sapi.php","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"色色资源站","name":"色色资源站","type":0,"api":"http://secj8.com/inc/api.php","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"玖玖资源站","name":"玖玖资源站","type":0,"api":"http://99zywcj.com/inc/ck.php","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"富二代资源站","name":"富二代资源站","type":0,"api":"http://f2dcj6.com/sapi","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"字幕网资源站","name":"字幕网资源站","type":0,"api":"http://zmcj88.com/api","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"久草资源站","name":"久草资源站","type":0,"api":"http://jcspcj8.com/api","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"JAV名优资源站","name":"JAV名优资源站","type":0,"api":"http://mygzycj.com/sapi.php","searchable":1,"quickSearch":1,"filterable":1},
 
 
 
