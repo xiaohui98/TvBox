@@ -22,14 +22,16 @@ spider:'https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-li
 
 {"key":"色色资源站","name":"色色资源站","type":0,"api":"http://secj8.com/inc/api.php?ac=videolist","searchable":0,"quickSearch":0},
 {"key":"玖玖资源站","name":"玖玖资源站","type":0,"api":"http://99zywcj.com/inc/ck.php?ac=videolist","searchable":0,"quickSearch":0},
-{"key":"富二代资源站","name":"富二代资源站","type":1,"api":"http://f2dcj6.com/sapi/json?ac=videolist","searchable":0,"quickSearch":0},
-{"key":"字幕网资源站","name":"字幕网资源站","type":1,"api":"http://zmcj88.com/sapi/json?ac=videolist","searchable":0,"quickSearch":0},
-{"key":"久草资源站","name":"久草资源站","type":1,"api":"http://jcspcj8.com/sapi/json?ac=videolist","searchable":0,"quickSearch":0},
-{"key":"JAV名优资源站","name":"JAV名优资源站","type":1,"api":"http://mygzycj.com/sapi.php?ac=jsonvideolist","searchable":0,"quickSearch":0},
-{"key":"利来资源站","name":"利来资源站","type":1,"api":"http://llzxcj.com/inc/json.php?ac=videolist","searchable":0,"quickSearch":0},
-{"key":"博天堂资源站","name":"博天堂资源站","type":1,"api":"http://bttcj.com/inc/jsonsapi.php?ac=videolist","searchable":0,"quickSearch":0},
-{"key":"环亚资源站","name":"环亚资源站","type":1,"api":"http://wmcj8.com/inc/jsonsapi.php?ac=videolist","searchable":0,"quickSearch":0},
- 
+{"key":"富二代资源站","name":"富二代资源站","type":0,"api":"http://f2dcj6.com/inc/api.php?ac=videolist","searchable":0,"quickSearch":0},
+{"key":"字幕网资源站","name":"字幕网资源站","type":0,"api":"http://zmcj88.com/inc/api.php?ac=videolist","searchable":0,"quickSearch":0},
+{"key":"久草资源站","name":"久草资源站","type":0,"api":"http://jcspcj8.com/inc/api.php?ac=videolist","searchable":0,"quickSearch":0},
+{"key":"JAV名优资源站","name":"JAV名优资源站","type":0,"api":"http://mygzycj.com/inc/api.php?ac=jsonvideolist","searchable":0,"quickSearch":0},
+{"key":"利来资源站","name":"利来资源站","type":0,"api":"http://llzxcj.com/inc/api.php?ac=videolist","searchable":0,"quickSearch":0},
+{"key":"博天堂资源站","name":"博天堂资源站","type":0,"api":"http://bttcj.com/inc/api.php?ac=videolist","searchable":0,"quickSearch":0},
+{"key":"环亚资源站","name":"环亚资源站","type":0,"api":"http://wmcj8.com/inc/api.php?ac=videolist","searchable":0,"quickSearch":0},
+
+{key:'xvideos',name:'xvideos',type:3,api:'csp_XVIDEOS',searchable:1,quickSearch:1,filterable:1},
+
 {key:'❤91麻豆',name:'❤91麻豆源',type:1,api:'https://91md.me/api.php/provide/vod/',searchable:0,quickSearch:0},
 {key:'❤花魁资源',name:'❤花魁资源',type:1,api:'https://caiji.huakuiapi.com/inc/apijson_vod.php',searchable:0,quickSearch:0},
 {key:'❤葡萄资源',name:'❤葡萄资源',type:0,api:'https://caiji.putaozy.net/inc/api.php',searchable:0,quickSearch:0},
