@@ -2,6 +2,7 @@
 ## spider
 //"spider":"https://freed.yuanhsing.cf/TVBox/MaooXB2/XBiubiuLA3.jar",
 "spider":"https://freed.yuanhsing.cf/TVBox/MaooXB2/XBiubiuLA4.jar",
+spider:'https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/box/jar/dkbck7pu.jar;md5;4df8a8eafa60db019d44d86b22f55edc',
 
 # 直播
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cDovL2ZyZWVkLnl1YW5oc2luZy5jZi90di9saXZlLnR4dA=="]}]}],
@@ -21,16 +22,16 @@
 
 {"key":"色色资源站","name":"色色资源站","type":0,"api":"http://secj8.com/inc/api.php?ac=videolist","searchable":0,"quickSearch":0},
 {"key":"玖玖资源站","name":"玖玖资源站","type":0,"api":"http://99zywcj.com/inc/ck.php?ac=videolist","searchable":0,"quickSearch":0},
-{"key":"富二代资源站","name":"富二代资源站","type":0,"api":"http://f2dcj6.com/sapi?ac=videolist","searchable":0,"quickSearch":0},
-{"key":"字幕网资源站","name":"字幕网资源站","type":0,"api":"http://zmcj88.com/api?ac=videolist","searchable":0,"quickSearch":0},
-{"key":"久草资源站","name":"久草资源站","type":0,"api":"http://jcspcj8.com/api?ac=videolist","searchable":0,"quickSearch":0},
+{"key":"富二代资源站","name":"富二代资源站","type":0,"api":"http://f2dcj6.com/sapi.php?ac=videolist","searchable":0,"quickSearch":0},
+{"key":"字幕网资源站","name":"字幕网资源站","type":0,"api":"http://zmcj88.com/api.php?ac=videolist","searchable":0,"quickSearch":0},
+{"key":"久草资源站","name":"久草资源站","type":0,"api":"http://jcspcj8.com/api.php?ac=videolist","searchable":0,"quickSearch":0},
 {"key":"JAV名优资源站","name":"JAV名优资源站","type":0,"api":"http://mygzycj.com/sapi.php?ac=videolist","searchable":0,"quickSearch":0},
 {key:'❤91麻豆',name:'❤91麻豆源',type:1,api:'https://91md.me/api.php/provide/vod/',searchable:0,quickSearch:0},
 {key:'❤花魁资源',name:'❤花魁资源',type:1,api:'https://caiji.huakuiapi.com/inc/apijson_vod.php',searchable:0,quickSearch:0},
 {key:'❤葡萄资源',name:'❤葡萄资源',type:1,api:'https://api.putaozy.net/inc/apijson_vod.php',searchable:0,quickSearch:0},
 {key:'❤影库资源',name:'❤影库资源',type:1,api:'https://api.ykapi.net/api.php/provide/vod/',searchable:0,quickSearch:0},
-{key:'❤美少女资源',name:'❤美少女资源',type:0,api:'https://www.msnii.com/api/json.php',searchable:0,quickSearch:0},
-{key:'❤花魁资源',name:'❤花魁资源',type:0,api:'https://caiji.huakuiapi.com/inc/api.php',searchable:0,quickSearch:0},
+{key:'❤美少女资源',name:'❤美少女资源',type:0,api:'https://www.msnii.com/api.php',searchable:0,quickSearch:0},
+
  
 
 
