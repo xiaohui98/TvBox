@@ -5,7 +5,8 @@
 spider:'https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/box/jar/dkbck7pu.jar;md5;4df8a8eafa60db019d44d86b22f55edc',
 
 # 直播
-"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cDovL2ZyZWVkLnl1YW5oc2luZy5jZi90di9saXZlLnR4dA=="]}]}],
+//"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cDovL2ZyZWVkLnl1YW5oc2luZy5jZi90di9saXZlLnR4dA=="]}]}],
+"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9yYXcuaXFpcS5pby9DeXJpbDA1NjMvbGFuamluZ19saXZlL21haW4vVFZib3hfRnJlZS9MSVZFL0ZyZWUvdHZib3hfbGl2ZS50eHQ="]}]}],
 
 "sites":[
 {"key":"csp_LiteApple","name":"🍎小苹果(SP)","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable": 1},
@@ -22,25 +23,43 @@ spider:'https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-li
 
 {"key":"色色资源站","name":"色色资源站","type":0,"api":"http://secj8.com/inc/api.php?ac=videolist","searchable":0,"quickSearch":0},
 {"key":"玖玖资源站","name":"玖玖资源站","type":0,"api":"http://99zywcj.com/inc/ck.php?ac=videolist","searchable":0,"quickSearch":0},
-{"key":"富二代资源站","name":"富二代资源站","type":0,"api":"http://f2dcj6.com/inc/api.php?ac=videolist","searchable":0,"quickSearch":0},
-{"key":"字幕网资源站","name":"字幕网资源站","type":0,"api":"http://zmcj88.com/inc/api.php?ac=videolist","searchable":0,"quickSearch":0},
-{"key":"久草资源站","name":"久草资源站","type":0,"api":"http://jcspcj8.com/inc/api.php?ac=videolist","searchable":0,"quickSearch":0},
-{"key":"JAV名优资源站","name":"JAV名优资源站","type":0,"api":"http://mygzycj.com/inc/api.php?ac=jsonvideolist","searchable":0,"quickSearch":0},
-{"key":"利来资源站","name":"利来资源站","type":0,"api":"http://llzxcj.com/inc/api.php?ac=videolist","searchable":0,"quickSearch":0},
+{"key":"富二代资源站","name":"富二代资源站","type":0,"api":"http://f2dcj6.com/api.php?ac=videolist","searchable":0,"quickSearch":0},
+{"key":"字幕网资源站","name":"字幕网资源站","type":0,"api":"http://zmcj88.com/api.php?ac=videolist","searchable":0,"quickSearch":0},
+{"key":"久草资源站","name":"久草资源站","type":0,"api":"http://jcspcj8.com/api.php?ac=videolist","searchable":0,"quickSearch":0},
+{"key":"JAV名优资源站","name":"JAV名优资源站","type":0,"api":"http://mygzycj.com/api.php?ac=jsonvideolist","searchable":0,"quickSearch":0},
+{"key":"利来资源站","name":"利来资源站","type":0,"api":"http://llzxcj.com/api.php?ac=videolist","searchable":0,"quickSearch":0},
 {"key":"博天堂资源站","name":"博天堂资源站","type":0,"api":"http://bttcj.com/inc/api.php?ac=videolist","searchable":0,"quickSearch":0},
 {"key":"环亚资源站","name":"环亚资源站","type":0,"api":"http://wmcj8.com/inc/api.php?ac=videolist","searchable":0,"quickSearch":0},
 
-{key:'xvideos',name:'xvideos',type:3,api:'csp_XVIDEOS',searchable:1,quickSearch:1,filterable:1},
+{"key":"csp_xvideos","name":"xvideos","type":3,"api":"csp_XVIDEOS","searchable":1,"quickSearch":1,"filterable": 1},
 
 {key:'❤91麻豆',name:'❤91麻豆源',type:1,api:'https://91md.me/api.php/provide/vod/',searchable:0,quickSearch:0},
 {key:'❤花魁资源',name:'❤花魁资源',type:1,api:'https://caiji.huakuiapi.com/inc/apijson_vod.php',searchable:0,quickSearch:0},
 {key:'❤葡萄资源',name:'❤葡萄资源',type:0,api:'https://caiji.putaozy.net/inc/api.php',searchable:0,quickSearch:0},
 {key:'❤影库资源',name:'❤影库资源',type:1,api:'https://api.ykapi.net/api.php/provide/vod/',searchable:0,quickSearch:0},
 {key:'❤美少女资源',name:'❤美少女资源',type:0,api:'https://www.msnii.com/api/xml.php',searchable:0,quickSearch:0},
+{key:'❤淫水机资源站',name:'❤淫水机资源站',type:0,api:'https://www.xrbsp.com/api/xml.php',searchable:0,quickSearch:0},
+{key:'❤香奶儿资源站',name:'❤香奶儿资源站',type:0,api:'https://www.gdlsp.com/api/xml.php',searchable:0,quickSearch:0},
+{key:'❤白嫖资源站',name:'❤白嫖资源站',type:0,api:'https://www.kxgav.com/api/xml.php',searchable:0,quickSearch:0}, 
+{key:'❤小湿妹资源站',name:'❤小湿妹资源站',type:0,api:'https://www.afasu.com/api/xml.php',searchable:0,quickSearch:0},
+{key:'❤黄AV资源站',name:'❤黄AV资源站',type:0,api:'https://www.pgxdy.com/api/xml.php',searchable:0,quickSearch:0},
+
+{key:'❤丝袜资源网-海外资源网资源',name:'❤丝袜资源网-海外资源网资源',type:0,api:'https://haiwai.siwazyw.org/api.php/provide/vod/at/xml/',searchable:0,quickSearch:0}, 
+{key:'❤丝袜资源网-国内资源网资源',name:'❤丝袜资源网-国内资源网资源',type:0,api:'https://www.siwazyw.cc/api.php/provide/vod/at/xml/',searchable:0,quickSearch:0},
+{key:'❤乐播资源站',name:'❤乐播资源站',type:0,api:'https://lbapi9.com/api.php/provide/vod/at/xml/',searchable:0,quickSearch:0},
+{key:'❤芒果资源站',name:'❤芒果资源站',type:0,api:'https://mgzyz1.com/api.php/provide/vod/at/xml/',searchable:0,quickSearch:0},
+{key:'❤探探资源站',name:'❤探探资源站',type:0,api:'https://apittzy.com/api.php/provide/vod/at/xml/',searchable:0,quickSearch:0}, 
+{key:'❤色猫资源站',name:'❤色猫资源站',type:0,api:'https://caiji.semaozy.net/inc/api.php',searchable:0,quickSearch:0}, 
+{key:'❤色窝资源站',name:'❤色窝资源站',type:0,api:'https://sewozyapi.com/api.php/provide/vod/at/xml',searchable:0,quickSearch:0},
+{key:'❤老鸭资源站',name:'❤老鸭资源站',type:0,api:'https://api.apilyzy.com/api.php/provide/vod/at/xml',searchable:0,quickSearch:0}, 
+{key:'❤秀色资源站',name:'❤秀色资源站',type:0,api:'https://api.xiuseapi.com/api.php/provide/vod/from/xiuse/at/xml/',searchable:0,quickSearch:0},  
+{key:'❤佳丽资源站',name:'❤佳丽资源站',type:0,api:'https://jializyzapi.com/api.php/provide/vod/at/xml/',searchable:0,quickSearch:0}, 
+{key:'❤香蕉资源站',name:'❤香蕉资源站',type:0,api:'https://xjzyapi.com/api.php/provide/vod/at/xml',searchable:0,quickSearch:0}, 
+{key:'❤奥斯卡资源站',name:'❤奥斯卡资源站',type:0,api:'https://aosikazy.com/api.php/provide/vod/at/xml',searchable:0,quickSearch:0}, 
+{key:'❤523资源站',name:'❤523资源站',type:0,api:'https://caiji.523zyw.com/inc/api.php',searchable:0,quickSearch:0},
 
  
-
-
+{key:'酷点资源站',name:'酷点资源站',type:0,api:'https://kudian10.com/api.php/provide/vod/?ac=detail',searchable:0,quickSearch:0}, 
 {"key":"csp_xpath_kuqimv","name":"🎤酷奇MV(XP)","type":3,"api":"csp_XPath","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://freed.yuanhsing.cf/TVBox/MaooXP/kuqimv.json"},
 
 {"key":"csp_biubiu_厂长资源-蓝光","name":"🥒厂长资源-蓝光(XB)","type":3,"api":"csp_XBiubiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://freed.yuanhsing.cf/TVBox/MaooXB2/厂长资源-蓝光.json"},
