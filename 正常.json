@@ -5,7 +5,7 @@
 {"name":"综合一","type":0,"url":"./TV/tvlive.txt","epg":"http://epg.51zmt.top:8000/api/i/?ch={name}&date={date}"},
  ],
   
- "wallpaper":"http://api.btstu.cn/sjbz/?lx=meizi",
+ "wallpaper":"http://api.btstu.cn/sjbz",
   
  "sites":[
   {"key":"一起看","name":"一起看〔ts〕","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"8e3aefcba838d8dc5102ac786719d837","jar":"./JAR/cs.jar"},
