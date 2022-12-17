@@ -2,6 +2,7 @@
 ## spider
 //"spider":"https://freed.yuanhsing.cf/TVBox/MaooXB2/XBiubiuLA3.jar",
 "spider":"https://freed.yuanhsing.cf/TVBox/MaooXB2/XBiubiuLA4.jar",
+ "spider":"./JAR/Yoursmile.jar",
 spider:'https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/box/jar/dkbck7pu.jar;md5;4df8a8eafa60db019d44d86b22f55edc',
 
  "rules":[{"host":"www.6080dy1.com","rule":["m3u8.php",".m3u8"]},
